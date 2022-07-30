@@ -23,12 +23,12 @@
 </style>
 </head>
 <body>
-	<img src="https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/280295773_109751081732758_6625045553352920486_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHezVKkhf4apO9LBHd0X9mRG1qkgX8C53cbWqSBfwLndylW9jzOaASHi-3zHcHFI9Iki5c5aaDeFk68zAcHaF53&_nc_ohc=8Akl-fRW2QgAX--EEM6&_nc_ht=scontent-sin6-4.xx&oh=00_AT8l2vu6SYCU2WETalFW3HhAVdcHiHFomzt31_ZIZY2jXg&oe=62DD3915" width="200"><br>
+	<img src="https://scontent.fcgk18-1.fna.fbcdn.net/v/t39.30808-6/280295773_109751081732758_6625045553352920486_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHezVKkhf4apO9LBHd0X9mRG1qkgX8C53cbWqSBfwLndylW9jzOaASHi-3zHcHFI9Iki5c5aaDeFk68zAcHaF53&_nc_ohc=LX0onsmcR5kAX974Mh8&_nc_ht=scontent.fcgk18-1.fna&oh=00_AT8JqMZrsM3RCrRhNObZjDzbt5qIxqdjOJ3n5bzQwdSvbQ&oe=62E91695" width="200"><br>
 	<h1>Hacked By User01_73r14r4ng </h1>
 	
-	<font color="red" size="4"> Ohayouuuuu </font><br><br>
+	<font color="red" size="4"> heyyyyy </font><br><br>
 	<i>
-	<font color="cyan" size="4"> Mas Kangen Ayang, tapi sekarang lagi sekolah sampai jam 3, cepet pulang atuh :'( </font><br><br><br>
+	<font color="cyan" size="4"> AYAANGGG KANGEEENNNN :'( </font><br><br><br>
 	<br>
 	</i>
 </html>
