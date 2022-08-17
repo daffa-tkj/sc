@@ -16,8 +16,8 @@
 <i><b>
 <font size="5" face="Inconsolata" color="black"><br>
 <img src="https://i.pinimg.com/736x/f8/72/0b/f8720b6cadd5f6ff2529171b70a1268c.jpg" width="320" height="320">
-<br><br><br>website anda memiliki kerentanan, namun jangan panik karena saya tidak mengubah file bawaan sistem ini, saya hanya menitipkan file ini saja<br><br>hubungi kontak saya jika membutuhkan bantuan : daff0612@gmail.com<br><br>\Root@System/<br><br>Linux srv118.niagahoster.com 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
-<br><br>uid=2639(u1275440) gid=2644(u1275440) groups=2644(u1275440)<br><br>
+<br><br><br>website anda memiliki kerentanan, namun jangan panik karena saya tidak mengubah file bawaan sistem ini, saya hanya menitipkan file ini saja<br><br>hubungi kontak saya jika membutuhkan bantuan : daff0612@gmail.com<br><br>\Root@System/<br><br>Linux srv50.niagahoster.com 4.18.0-348.20.1.lve.1.el7h.x86_64 #1 SMP Wed Mar 16 10:52:27 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+<br><br>uid=2931(u5413525) gid=2933(u5413525) groups=2933(u5413525)<br><br>
 
 
 
