@@ -1,23 +1,32 @@
+
+<html>
 <head>
-<!-- simple script by 4LM05TH3V!L ©2021 rec0de?zer delete copyright? u're n00b! -->
-<title>Hacked by User01_73r14r4ng</title>
-<link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
-<meta charset="UTF-8">
-<meta name="description" content="User01_73r14r4ng Was Here">
-<meta name="keywords" content="User01_73r14r4ng">
+<title>..:: Terhacked::..</title>
+<meta property="og:title" content="# User01_73r14r4ng Was Here #"/> 
+<meta property="og:description" content="Defaced By User01_73r14r4ng"/>
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+<meta property="og:image" content="https://pbs.twimg.com/profile_images/877205650224406528/_bDotn_T_400x400.jpg"> 
+<meta name="description" content="User01_73r14r4ng"> <meta name="keywords" content="User01_73r14r4ng">
 <meta http-equiv="cache-control" content="index,cache">
 <meta http-equiv="pragma" content="index,cache">
-<meta name="theme-color" content="black">
+<style> 
+@import url('https://fonts.googleapis.com/css?family=Grand Hotel'); 
+@import url('https://fonts.googleapis.com/css?family=Germania One'); @import url('https://fonts.googleapis.com/css?family=Grand Hotel'); @import url('https://fonts.googleapis.com/css?family=Titan One');img{opacity:3;-webkit-transition:all 250ms ease;-moz-transition:all 250ms ease;-o-transition:all 250ms ease;transition:all 250ms ease} </style></style>
+<script src="http://e-mete.com/js/kdsnow.js" type="text/javascript"></script>
+<script src="../cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/daun-berguguran.js" type="text/javascript"></script>
+<br>
 </head>
-<center>
-<body bgcolor="white">
-<div style="height: auto; min-height: 100%;">
-<div style="text-align: center; width:800px; margin-left: -400px; position: absolute; top: 30%; left: 50%;">
-<i><b>
-<font size="5" face="Inconsolata" color="black"><br>
-<img src="https://i.pinimg.com/736x/f8/72/0b/f8720b6cadd5f6ff2529171b70a1268c.jpg" width="320" height="320">
-<br><br><br>website anda memiliki kerentanan, namun jangan panik karena saya tidak mengubah file bawaan sistem ini, saya hanya menitipkan file ini saja<br><br>hubungi kontak saya jika membutuhkan bantuan : daff0612@gmail.com<br><br>\Root@System/<br><br>Linux srv50.niagahoster.com 4.18.0-348.20.1.lve.1.el7h.x86_64 #1 SMP Wed Mar 16 10:52:27 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
-<br><br>uid=2931(u5413525) gid=2933(u5413525) groups=2933(u5413525)<br><br>
-
-
-
+ <body bgcolor="black" oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+ <center>
+ <img src='https://i.gifer.com/origin/40/40347e3f2bc01b8790a3c7278f39447b_w200.gif' height='150' title='Solo'/>
+ </center>
+ <br>
+ <center>
+  <font face="Germania One" size="7" color="silver"><b>Hacked By User01_73r14r4ng </font><br>
+ <img src='https://animesher.com/orig/0/91/919/9191/animesher.com_dark-anime-girl-demon-919168.jpg' height='400' title='Solo'/><br>
+<br>
+ <font face="Indie Flower" size="5" color="silver">Message:<br>
+Sorry Admin ,, <br>
+Where is your security? <br></font>
+ </body>
+ </html>
